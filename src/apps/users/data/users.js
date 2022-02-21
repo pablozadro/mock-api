@@ -21,7 +21,7 @@ module.exports = [
     name: 'Toby Bechtelar',
     email: 'Helena65@gmail.com',
     created: 1644863376,
-    id: 4
+    id: 4,
   },
   {
     name: 'Terry Bechtelar',
@@ -58,6 +58,6 @@ module.exports = [
     email: 'Kelton_Romaguera39@yahoo.com',
     created: 1644863016,
     id: 10,
-  }
+  },
 ];
 
