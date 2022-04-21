@@ -16,7 +16,7 @@ npm start
 ```
 
 
-## Enpoints
+## Endpoints
 
 * GET `api/v1/users`
 * GET `api/v1/users/:id`
